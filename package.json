@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/math-base-special-factorial",
+  "version": "0.0.0",
+  "description": "Evaluate a factorial.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-factorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "special functions",
+    "special",
+    "function",
+    "factorial",
+    "fact",
+    "combinatorics",
+    "gamma",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-18)
+## Unreleased (2024-07-21)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`ead1c3b`](https://github.com/stdlib-js/stdlib/commit/ead1c3b780527d8068d9c076e85688be94d53775) - **chore:** update package meta data [(#2640)](https://github.com/stdlib-js/stdlib/pull/2640) _(by stdlib-bot, Athan Reines)_
 -   [`5822206`](https://github.com/stdlib-js/stdlib/commit/5822206c2a023cb097ec057ed99b155383db909d) - **fix:** remove unused include in header file [(#2624)](https://github.com/stdlib-js/stdlib/pull/2624) _(by Gunj Joshi)_
 -   [`cc98b20`](https://github.com/stdlib-js/stdlib/commit/cc98b20ab91590c526896d547e447f107fc714aa) - **feat:** add C implementation for `math/base/special/factorial` [(##2618)](#2618 ) _(by Gunj Joshi)_
 -   [`41d41e9`](https://github.com/stdlib-js/stdlib/commit/41d41e959b4eaad3c631e6898e3144a4015a5458) - **test:** include trailing newlines in Julia-generated JSON fixtures _(by Philipp Burckhardt)_
@@ -47,8 +48,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gunj Joshi
 -   Philipp Burckhardt
 

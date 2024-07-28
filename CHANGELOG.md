@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2024-07-27)
+## 0.3.0 (2024-07-28)
 
 <section class="features">
 
@@ -32,6 +32,9 @@
 
 <details>
 
+-   [`3e05048`](https://github.com/stdlib-js/stdlib/commit/3e05048df523b9a45e3f0621893d9dd99aae8d9c) - **docs:** remove comment _(by Athan Reines)_
+-   [`55ec8ed`](https://github.com/stdlib-js/stdlib/commit/55ec8edfeb7000bca7478af116e794f20560e922) - **docs:** remove comment _(by Athan Reines)_
+-   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 -   [`7e04d9e`](https://github.com/stdlib-js/stdlib/commit/7e04d9e27fb5008c1cbc6e45e08ea6ad4b8993d2) - **refactor:** use max-safe-nth-factorial package [(#2676)](https://github.com/stdlib-js/stdlib/pull/2676 ) _(by Gunj Joshi)_
 -   [`ead1c3b`](https://github.com/stdlib-js/stdlib/commit/ead1c3b780527d8068d9c076e85688be94d53775) - **chore:** update package meta data [(#2640)](https://github.com/stdlib-js/stdlib/pull/2640) _(by stdlib-bot, Athan Reines)_
 -   [`5822206`](https://github.com/stdlib-js/stdlib/commit/5822206c2a023cb097ec057ed99b155383db909d) - **fix:** remove unused include in header file [(#2624)](https://github.com/stdlib-js/stdlib/pull/2624) _(by Gunj Joshi)_

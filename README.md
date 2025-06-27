@@ -227,7 +227,7 @@ The function accepts the following arguments:
 -   **x**: `[in] double` input value.
 
 ```c
-double stdlib_base_factorial( const double n );
+double stdlib_base_factorial( const double x );
 ```
 
 </section>

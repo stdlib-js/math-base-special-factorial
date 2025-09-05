@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-28)
+## Unreleased (2025-09-05)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`4fadd45`](https://github.com/stdlib-js/stdlib/commit/4fadd45bb3ff63b9c30e9b7a6b950554f555dbec) - **chore:** add structured package data for `math/base/special/factorial` [(#8017)](https://github.com/stdlib-js/stdlib/pull/8017) _(by Lokesh Ranjan)_
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`8928b01`](https://github.com/stdlib-js/stdlib/commit/8928b01672f267d8c2ead50efb77083ba5b1ccad) - **bench:** fix missing include _(by Athan Reines)_
 -   [`aa8b15b`](https://github.com/stdlib-js/stdlib/commit/aa8b15b9c8aa11db7dc584b0368fedeb98ef885a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`0d53bc8`](https://github.com/stdlib-js/stdlib/commit/0d53bc83d3e0bc958aa43d6bf8759e36a586b9cb) - **fix:** correct imports to use `max-nth-factorial` constant _(by Karan Anand)_
@@ -37,10 +39,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 
 </section>

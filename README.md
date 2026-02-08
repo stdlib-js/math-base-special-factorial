@@ -110,6 +110,11 @@ The [factorial][factorial-function] of a **negative** integer is not defined.
 ## Usage
 
 ```javascript
+import factorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorial@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-factorial/tags). For example,
+
+```javascript
 import factorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorial@v0.3.2-esm/index.mjs';
 ```
 
@@ -157,7 +162,7 @@ v = factorial( NaN );
 <script type="module">
 
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@esm/index.mjs';
-import factorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorial@v0.3.2-esm/index.mjs';
+import factorial from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-factorial@esm/index.mjs';
 
 var x = incrspace( -10.0, 100.0, 1.0 );
 
